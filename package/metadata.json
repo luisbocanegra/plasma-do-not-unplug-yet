@@ -1,0 +1,25 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "luisbocanegra17b@gmail.com",
+                "Name": "Luis Bocanegra"
+            }
+        ],
+        "BugReportUrl": "https://github.com/luisbocanegra/plasma-do-not-unplug-yet/issues",
+        "Category": "System Information",
+        "Description": "Show an icon when files are being transferred in the background to removable drives",
+        "Id": "luisbocanegra.do-not-unplug-yet",
+        "EnabledByDefault": "true",
+        "Icon":"folder-sync",
+        "License": "GPL-3.0",
+        "Name": "Do not unplug yet!",
+        "Version": "0.1.0",
+        "Website": "https://github.com/luisbocanegra/plasma-do-not-unplug-yet"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-NotificationArea": "true",
+    "X-Plasma-NotificationAreaCategory": "Hardware"
+}
