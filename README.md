@@ -21,7 +21,7 @@ For more detailed info check [this KDE Discuss post](https://discuss.kde.org/t/d
 
 ## Installing
 
-* Install widget from [KDE Store](todo) or use `Get new widgets..`
+* Install widget from [KDE Store]([todo](https://store.kde.org/p/2096656)) or use `Get new widgets..`
 
 ### Manual install
 
